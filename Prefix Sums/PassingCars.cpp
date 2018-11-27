@@ -75,8 +75,6 @@ int solution(std::vector<int> &A) {
   return num;
 }
 
-
-
 int main() {
 
   //Get vector size
